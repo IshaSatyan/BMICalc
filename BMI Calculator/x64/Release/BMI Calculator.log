@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\BMI Calculator\BMI Calculator\MyForm.h(224,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BMI Calculator.vcxproj -> C:\Users\user\source\repos\BMI Calculator\x64\Release\BMI Calculator.exe

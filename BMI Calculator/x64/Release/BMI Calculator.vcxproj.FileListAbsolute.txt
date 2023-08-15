@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\BMI Calculator\BMI Calculator\x64\Release\BMI Calculator.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\BMI Calculator\BMI Calculator\x64\Release\BMI Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\BMI Calculator\BMI Calculator\x64\Release\BMICalculator.MyForm.resources
+C:\Users\user\source\repos\BMI Calculator\BMI Calculator\x64\Release\BMI Calculator.vcxproj.GenerateResource.cache
